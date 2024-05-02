@@ -1,5 +1,5 @@
 # Simple-To-do-Project
-![logo](../Simple-To-do-Project/readmeAssets/banner.png "Banner Logo")
+![logo](readmeAssets/banner.png "Banner Logo")
 
 # Simple To-Do
 
